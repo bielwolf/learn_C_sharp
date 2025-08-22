@@ -1,0 +1,14 @@
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/bin/Debug/net8.0/atividades
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/bin/Debug/net8.0/atividades.deps.json
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/bin/Debug/net8.0/atividades.runtimeconfig.json
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/bin/Debug/net8.0/atividades.dll
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/bin/Debug/net8.0/atividades.pdb
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/Debug/net8.0/atividades.GeneratedMSBuildEditorConfig.editorconfig
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/Debug/net8.0/atividades.AssemblyInfoInputs.cache
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/Debug/net8.0/atividades.AssemblyInfo.cs
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/Debug/net8.0/atividades.csproj.CoreCompileInputs.cache
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/Debug/net8.0/atividades.dll
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/Debug/net8.0/refint/atividades.dll
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/Debug/net8.0/atividades.pdb
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/Debug/net8.0/atividades.genruntimeconfig.cache
+/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/Debug/net8.0/ref/atividades.dll
