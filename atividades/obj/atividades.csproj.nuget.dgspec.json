@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/atividades.csproj": {}
+    "/home/bielwolf/Documentos/Alura/linguagem_C_sharp/atividades/atividades.csproj": {}
   },
   "projects": {
-    "/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/atividades.csproj": {
+    "/home/bielwolf/Documentos/Alura/linguagem_C_sharp/atividades/atividades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/atividades.csproj",
+        "projectUniqueName": "/home/bielwolf/Documentos/Alura/linguagem_C_sharp/atividades/atividades.csproj",
         "projectName": "atividades",
-        "projectPath": "/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/atividades.csproj",
+        "projectPath": "/home/bielwolf/Documentos/Alura/linguagem_C_sharp/atividades/atividades.csproj",
         "packagesPath": "/home/bielwolf/.nuget/packages/",
-        "outputPath": "/home/bielwolf/Documentos/Alura/linguagem_C#/atividades/obj/",
+        "outputPath": "/home/bielwolf/Documentos/Alura/linguagem_C_sharp/atividades/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/bielwolf/.nuget/NuGet/NuGet.Config"
