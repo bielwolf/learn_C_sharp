@@ -1,4 +1,3 @@
-namespace ScreenSound2;
 
 class Musica
 {

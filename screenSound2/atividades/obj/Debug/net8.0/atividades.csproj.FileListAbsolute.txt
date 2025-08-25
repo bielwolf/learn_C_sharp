@@ -1,5 +1,0 @@
-/home/bielwolf/Documentos/Alura/linguagem_C_sharp/screenSound2/atividades/obj/Debug/net8.0/atividades.GeneratedMSBuildEditorConfig.editorconfig
-/home/bielwolf/Documentos/Alura/linguagem_C_sharp/screenSound2/atividades/obj/Debug/net8.0/atividades.AssemblyInfoInputs.cache
-/home/bielwolf/Documentos/Alura/linguagem_C_sharp/screenSound2/atividades/obj/Debug/net8.0/atividades.AssemblyInfo.cs
-/home/bielwolf/Documentos/Alura/linguagem_C_sharp/screenSound2/atividades/obj/Debug/net8.0/atividades.csproj.CoreCompileInputs.cache
-/home/bielwolf/Documentos/Alura/linguagem_C_sharp/screenSound2/atividades/obj/Debug/net8.0/atividades.sourcelink.json

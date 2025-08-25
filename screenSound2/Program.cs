@@ -1,25 +1,14 @@
-﻿using ScreenSound2;
+﻿
+Album albumDoQueen = new Album();
+albumDoQueen.Nome = "A night at the opera";
 
-Musica musica1 = new()
-{
-    Nome = "Roxane",
-    Artista = "The Police",
-    Duracao = 273,
-    Disponivel = true
-};
-Console.WriteLine(musica1.Disponivel);
+Musica musica1 = new Musica();
+musica1.Nome = "Love of my life";
 
+Musica musica2 = new Musica();
+musica2.Nome = "Bohemian Rhapsody";
 
-Musica musica2 = new()
-{
-    Nome = "Vertigo",
-    Artista = "U2",
-    Duracao = 367,
-    Disponivel = false
-};
-Console.WriteLine(musica2.Disponivel);
+albumDoQueen.AdicionarMusica(musica1);
+albumDoQueen.AdicionarMusica(musica2);
 
-
-musica1.ExibirFichaTecnica();
-musica2.ExibirFichaTecnica();
-
+albumDoQueen.ExibirMusicasDoAlbum();
