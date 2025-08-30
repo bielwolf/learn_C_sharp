@@ -1,4 +1,6 @@
-﻿class Banda
+﻿namespace ScreenSound.Modelos;
+
+class Banda
 {
     private List<Album> albuns = new List<Album>();
     private List<int> notas = new List<int>();
@@ -12,8 +14,8 @@
     public double Media => notas.Average();
     public List<Album> Albuns => albuns;
 
-    public void AdicionarAlbum(Album album) 
-    { 
+    public void AdicionarAlbum(Album album)
+    {
         albuns.Add(album);
     }
 
