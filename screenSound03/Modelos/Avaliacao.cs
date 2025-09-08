@@ -9,7 +9,6 @@ internal class Avaliacao
         Nota = nota;
     }
 
-
     public int Nota { get; }
 
     public static Avaliacao Parse(string texto)

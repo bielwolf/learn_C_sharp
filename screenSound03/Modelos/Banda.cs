@@ -1,8 +1,10 @@
-﻿namespace ScreenSound.Modelos;
+﻿
+namespace ScreenSound.Modelos;
 
-internal class Banda
+internal class Banda : IAvaliavel
 {
     private List<Album> albuns = new List<Album>();
+    public IEnumerable<Album> albums => albuns;
     private List<Avaliacao> notas = new List<Avaliacao>();
 
     public Banda(string nome)
@@ -38,5 +40,10 @@ internal class Banda
         {
             Console.WriteLine($"Álbum: {album.Nome} ({album.DuracaoTotal})");
         }
+    }
+
+    public static implicit operator Banda(Album v)
+    {
+        throw new NotImplementedException();
     }
 }
