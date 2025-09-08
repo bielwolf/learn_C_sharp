@@ -1,0 +1,15 @@
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/bin/Debug/net8.0/ScreenSound04
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/bin/Debug/net8.0/ScreenSound04.deps.json
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/bin/Debug/net8.0/ScreenSound04.runtimeconfig.json
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/bin/Debug/net8.0/ScreenSound04.dll
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/bin/Debug/net8.0/ScreenSound04.pdb
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/ScreenSound04.GeneratedMSBuildEditorConfig.editorconfig
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/ScreenSound04.AssemblyInfoInputs.cache
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/ScreenSound04.AssemblyInfo.cs
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/ScreenSound04.csproj.CoreCompileInputs.cache
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/ScreenSound04.sourcelink.json
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/ScreenSound04.dll
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/refint/ScreenSound04.dll
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/ScreenSound04.pdb
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/ScreenSound04.genruntimeconfig.cache
+/home/bielwolf/Documentos/Alura/linguagem_C_sharp/ScreenSound04/obj/Debug/net8.0/ref/ScreenSound04.dll
