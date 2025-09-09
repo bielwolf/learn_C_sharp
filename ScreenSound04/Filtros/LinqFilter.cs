@@ -14,7 +14,7 @@ internal class LinqFilter
 
     public static void FiltrarArtistasPorGeneroMusical(List<Musica> musicas, string genero)
     {
-        var artistasPorGeneroMusical = musicas.Where(musica => musica.Genero.Contains(genero)).Select(musica => musica.Artista).Distinct().ToList();
+        var artistasPorGeneroMusical = musicas.Where(musica => musica.Genero!.Contains(genero)).Select(musica => musica.Artista).Distinct().ToList();
         Console.WriteLine($"Exibindo os artistas por gênero musical >>> {genero}");
         foreach (var artista in artistasPorGeneroMusical)
         {
@@ -39,6 +39,21 @@ internal class LinqFilter
         foreach (var musica in musicasPorAno) 
         {
             Console.WriteLine($"{musica}");
+        }
+    }
+
+    internal static void FiltrarMusicasEmCSharp(List<Musica> musicas)
+    {
+        var musicasEmCSharp = musicas
+        .Where(musica => musica.Tonalidade.Equals("C#"))
+        .Select(musica => musica.Nome)
+        .Distinct()
+        .ToList();
+        Console.WriteLine("Música em C#: ");
+
+        foreach (var musica in musicasEmCSharp)
+        {
+            Console.WriteLine($"- {musica}");
         }
     }
 }
